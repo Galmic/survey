@@ -1,0 +1,64 @@
+.page-container {
+  margin-top: 30px;
+  width: 260px;
+}
+.page-container h3 {
+  text-align: center;
+}
+
+.page-content {
+  margin: 3px;
+  width: 100%;
+}
+
+.custom-form-control {
+  margin-bottom: 20px;
+}
+.custom-form-control-fourth {
+  white-space: normal;
+}
+
+.bottom-button {
+  width: 80px;
+}
+
+.box-modal {
+  margin-top: 30px;
+  width: 80%;
+  padding: 10px;
+  background-color: rgb(230, 230, 230);
+  border-radius: 5%;
+  box-shadow: 24;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.intro-button-proceed {
+  position: fixed;
+  top: 88%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.shrink-age {
+  transform: translate(14px, -6px) scale(0.75);
+}
+
+.p2-form-control-border {
+  position: relative;
+}
+.p2-form-control-border:after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 1px;
+  background-color: #363636; /* Adjust the color as needed */
+  opacity: 0.1;
+}
+.fifth-active-icon {
+  transform: scale(1.2);
+  transition: transform 0.2s ease-in-out;
+}
