@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/survey/static/css/main.76b19c3f.css",
+    "main.js": "/survey/static/js/main.84f8ce6f.js",
+    "static/media/sorsu.png": "/survey/static/media/sorsu.70f1a4b0e74ffa169f0a.png",
+    "static/media/arta.png": "/survey/static/media/arta.66f411ca685e65abe347.png",
+    "static/media/na-img.png": "/survey/static/media/na-img.95aae30de0014b6f7ee2.png",
+    "static/media/na-grey-img.png": "/survey/static/media/na-grey-img.4a516f693f09e354666c.png",
+    "index.html": "/survey/index.html",
+    "main.76b19c3f.css.map": "/survey/static/css/main.76b19c3f.css.map",
+    "main.84f8ce6f.js.map": "/survey/static/js/main.84f8ce6f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76b19c3f.css",
+    "static/js/main.84f8ce6f.js"
+  ]
+}
